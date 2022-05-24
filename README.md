@@ -1,5 +1,5 @@
 - 👋 Hi there.
-- 💡 Frontend developer with solid knowledge in Javascript, HTML, CSS, GITHUB, React js.
+- 💡 Frontend developer with solid knowledge in Javascript, HTML, CSS, GITHUB, React js, Typescript.
 - 🎯 Skills: Javascript, React js, HTML, CSS/SASS, GitHub.
 - 📫 How to reach me , Email: rogerdavidalbaortega@gmail.com
 
